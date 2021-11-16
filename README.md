@@ -5,7 +5,7 @@ ___
 
 ### Disclaimer
 This HTTP server is currently under developing as part of learning objectives, and will not likely be maintained after the end of course.
-
+___
 ### Developer list with responsibility:
 Team lead: Yixing Chen
 Team members: Cheng Yu Sung, Akshay Ram, Hang Zhao, Fiona Tubiana
@@ -16,10 +16,10 @@ Cheng Yu Sung: will be in charge with implementing logging & multithreading.
 Akshay Ram: will be implementing one of request method HEAD.
 Hang Zhao: will be implementing SSL. 
 Fiona Tubiana: will be implementing one of request method DELETE.
-
+___
 ### Quickstart: 'todo
-
+___
 ### Project structure: 'todo
-
+___
 ### Features implemented: 'todo
 
