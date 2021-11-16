@@ -15,9 +15,9 @@ Team members: Cheng Yu Sung, Akshay Ram, Hang Zhao, Fiona Tubiana
 Responsibility:
 + Yixing Chen: will be mainly responsible for implementing two request methods GET & POST methods from basic requirements and NIO for replacing BIO in multithreading for additional requirements. 
 + Cheng Yu Sung: will be in charge with implementing logging & multithreading. 
-+ Akshay Ram: will be implementing one of request method HEAD.
++ Akshay Ram: will be implementing one of request methods HEAD.
 + Hang Zhao: will be implementing SSL. 
-+ Fiona Tubiana: will be implementing one of request method DELETE.
++ Fiona Tubiana: will be implementing one of request methods DELETE.
 ___
 ### Quickstart: 'todo
 ___
